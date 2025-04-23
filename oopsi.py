@@ -2,7 +2,7 @@ class Car:
     # name = "Maruti"
     def __init__(self, fullname):
         self.name = fullname
-    print("Hello World 123!@#")
+    print("Hello World MW")
 
 list = []
 
