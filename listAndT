@@ -1,0 +1,21 @@
+# PALINDROME 
+movie = [1,4,6,4,1]
+# movie = ["K3G", 9, 1, 4, "OSO", "piku", 4, 1, 8]
+# movie = [2, 4, 1, 8, 2, 9, 1]
+
+mov = movie.copy()
+mov.reverse()
+#movie.append("KGF")
+# movie.sort()
+# movie.index(3,5)
+# movie.remove(1)
+# movie.pop(0)
+
+print(movie)
+print(mov)
+
+if(movie == mov):
+    print("Palindrome")
+else:
+    print("no")
+# print(type(movie))

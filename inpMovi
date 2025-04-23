@@ -1,0 +1,24 @@
+MOVIES = ["K3G"]
+MOVIES.append("DDLJ")
+print(MOVIES)
+
+# movie = input("Give your movie name:" )
+# MOVIES.append(movie)
+
+# movie = input("Give your movie name:" )
+# MOVIES.append(movie)
+
+# MOVIES.append(input("Give your movie name:" ))
+
+# print(MOVIES)
+
+
+strin = str(MOVIES)
+print(strin)
+# print(type(strin))
+i = 0
+for i in strin[::]:
+    print(strin)
+
+# print(MOVIES)
+# print(type(MOVIES))
